@@ -1,6 +1,22 @@
-# Shadow Mailer public feedback, discussions and roadmap
+Shadow Mailer public support tickets, discussions and roadmap
+--
 
-In this repository, you can find the [official ShadowMailer public feedback, discussions and roadmap](https://github.com/merchantprotocol/shadowmailer-support) for the following product areas, as well as an overall category for general product feedback:
+| **Resource** | **Link** |
+|---	|---	|
+| Sales Homepage | [www.shadowmailer.com](https://www.shadowmailer.com) |
+| Application Login | [app.shadowmailer.com](https://app.shadowmailer.com/login) |
+| Documentation | [app.shadowmailer.com](https://app.shadowmailer.com/docs) |
+| Support Portal | [github.com/merchantprotocol/shadowmailer-support/](https://github.com/merchantprotocol/shadowmailer-support/) |
+| Support Tickets | [github.com/merchantprotocol/shadowmailer-support/issues](https://github.com/merchantprotocol/shadowmailer-support/issues) |
+| Support Discussions | [github.com/merchantprotocol/shadowmailer-support/discussions](https://github.com/merchantprotocol/shadowmailer-support/discussions) |
+
+# Support Tickets
+
+You will find in this repository an "[Issues](https://github.com/merchantprotocol/shadowmailer-support/issues)" section where support tickets can be created for Bugs, Feature Requests and other reasons to engage the Community Manager and Development Team. Support tickets are designated for items that might be escalated to the software developers. If you're not sure what kind of problem you're dealing with, it's best to create a support ticket.
+
+# Discussions
+
+If you do not have a bug or problem with the software, then it's best to post your needs into the discussions area. We are created categories for all things support.
 
 | **Feedback Category** | **Documentation** 	|
 |---	|---	|
@@ -12,7 +28,7 @@ These discussions are where you can share suggestions for how the products shoul
 
 This repository works in conjunction with the [ShadowMailer public roadmap](https://github.com/orgs/merchantprotocol/projects/7), which is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Discussion categories have been established for specific features listed above, as well as a general category for other topics. Additional categories may be added in the future. In the meantime, topics outside of the listed categories above, will be transferred into the general category. Please review the [CODE OF CONDUCT](CODE_OF_CONDUCT.md) before participating in discussions.
 
-## Making suggestions
+### Making suggestions
 
 We encourage you to [open a discussion](https://github.com/merchantprotocol/shadowmailer-support/discussions) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion.
 
