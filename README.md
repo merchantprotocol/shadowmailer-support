@@ -5,7 +5,7 @@ Shadow Mailer public support tickets, discussions and roadmap
 |---	|---	|
 | Sales Homepage | [www.shadowmailer.com](https://www.shadowmailer.com) |
 | Application Login | [app.shadowmailer.com](https://app.shadowmailer.com/login) |
-| Documentation | [app.shadowmailer.com](https://app.shadowmailer.com/docs) |
+| Documentation | [app.shadowmailer.com/docs](https://app.shadowmailer.com/docs) |
 | Support Portal | [github.com/merchantprotocol/shadowmailer-support/](https://github.com/merchantprotocol/shadowmailer-support/) |
 | Support Tickets | [github.com/merchantprotocol/shadowmailer-support/issues](https://github.com/merchantprotocol/shadowmailer-support/issues) |
 | Support Discussions | [github.com/merchantprotocol/shadowmailer-support/discussions](https://github.com/merchantprotocol/shadowmailer-support/discussions) |
